@@ -1,0 +1,4 @@
+/store/t0streamer/Data/NanoDST/000/295/604/run295604_ls0001_streamNanoDST_StorageManager.dat
+/store/t0streamer/Data/NanoDST/000/295/604/run295604_ls0002_streamNanoDST_StorageManager.dat
+/store/t0streamer/Data/NanoDST/000/295/604/run295604_ls0003_streamNanoDST_StorageManager.dat
+/store/t0streamer/Data/NanoDST/000/295/604/run295604_ls0004_streamNanoDST_StorageManager.dat
